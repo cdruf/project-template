@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+numba
+openpyxl
+xlwings
+PuLP
+gurobipy
+
